@@ -1,4 +1,11 @@
-﻿#include <sys/ioctl.h>
+
+/*************************************************************************
+  > File Name: http_get.c
+  > Author: 夜晚不懂天的白 
+  > Mail: 656325437@qq.com
+  > Created Time: 2018年06月30日 星期六 19时05分15秒
+ ************************************************************************/
+#include <sys/ioctl.h>
 #include <poll.h>
 #include <sys/time.h>
 #include <sys/socket.h>
